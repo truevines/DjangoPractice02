@@ -1,0 +1,8 @@
+Django==1.9.1
+dj-database-url==0.3.0
+dj-static==0.0.6
+gunicorn==19.4.5
+maxminddb==1.2.0
+maxminddb-geolite2==2015.0708
+static3==0.6.1
+psycopg2==2.6.1

@@ -1,0 +1,7 @@
+#Django02-IP2Geo-Take2/.gitignore
+
+django02
+*.pyc
+__pycache__
+staticfiles
+db.sqlite3
